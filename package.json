@@ -1,0 +1,25 @@
+{
+  "name": "myschool-api",
+  "version": "1.0.0",
+  "description": "This is develoment level of api which is designed for schools.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ankit-Programmer/myschool-api.git"
+  },
+  "keywords": [
+    "myschool-api",
+    "silkytech",
+    "ankit-programmer"
+  ],
+  "author": "Ankit Kumar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ankit-Programmer/myschool-api/issues"
+  },
+  "homepage": "https://github.com/Ankit-Programmer/myschool-api#readme"
+}
